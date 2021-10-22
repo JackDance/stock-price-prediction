@@ -1,0 +1,5 @@
+pytorch
+torchvision
+pillow
+pandas
+quandl
